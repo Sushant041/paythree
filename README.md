@@ -20,8 +20,8 @@ With PayThree, payroll isn’t just faster and cheaper  it’s global, verifiabl
 | Resource | Resource Link |
 |----------|---------------|
 | **GitHub Repository** | [🔗 View on GitHub](https://github.com/preyanshu/paythree) |
-| **HR Portal (Live Demo)** | [🔗 Open HR Portal](https://hrpaythreee-rho.vercel.app/) |
-| **Employee Portal (Live Demo)** | [🔗 Open Employee Portal](https://employeepaythreee.vercel.app/) |
+| **HR Portal (Live Demo)** | [🔗 Open HR Portal](https://paythree.vercel.app/) |
+| **Employee Portal (Live Demo)** | [🔗 Open Employee Portal](https://paythree-tlzp.vercel.app/) |
 | **Demo Video** | [🔗 Watch on YouTube](https://youtube.com/your-demo-video) |
 | **SomniaScan – ESOP Smart Contract** | [🔗 Contract](https://shannon-explorer.somnia.network/address/0xDA30D2f74565DFC70f7c68Ec41bbbc97Fa3b7B78) |
 | **SomniaScan – Payout Smart Contract** | [🔗Contract](https://shannon-explorer.somnia.network/address/0x1A5D2170C16ACD5deb63f072fbc5EaDF00Db4Ce8) |
