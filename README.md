@@ -19,7 +19,7 @@ With PayThree, payroll isn’t just faster and cheaper  it’s global, verifiabl
 
 | Resource | Resource Link |
 |----------|---------------|
-| **GitHub Repository** | [🔗 View on GitHub](https://github.com/preyanshu/paythree) |
+| **GitHub Repository** | [🔗 View on GitHub](https://github.com/Sushant041/paythree) |
 | **HR Portal (Live Demo)** | [🔗 Open HR Portal](https://paythree.vercel.app/) |
 | **Employee Portal (Live Demo)** | [🔗 Open Employee Portal](https://paythree-tlzp.vercel.app/) |
 | **Demo Video** | [🔗 Watch on YouTube](https://youtube.com/your-demo-video) |
